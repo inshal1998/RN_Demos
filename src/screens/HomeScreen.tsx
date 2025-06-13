@@ -11,7 +11,7 @@ const HomeScreen = () => {
     <View style={styles.container}>
       <CustomBtn
          title='WallPaper Changer'
-         onPress={()=>{navigation.navigate('WallpaperPicker')}}
+         onPress={()=>{navigation.navigate('NPMWallPaperPicker')}}
       />
     </View>
   );

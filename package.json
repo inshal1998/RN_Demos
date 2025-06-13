@@ -18,7 +18,8 @@
     "react-native-image-picker": "^8.2.1",
     "react-native-permissions": "^5.4.1",
     "react-native-safe-area-context": "^5.4.1",
-    "react-native-screens": "^4.11.1"
+    "react-native-screens": "^4.11.1",
+    "react-native-wallpaper-changer": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
